@@ -1,0 +1,10 @@
+1-
+pip install openai
+2-
+openai migrate
+3-
+pip install openai==0.28
+4-
+pip install Flask
+
+
